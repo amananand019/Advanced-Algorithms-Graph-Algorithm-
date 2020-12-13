@@ -1,4 +1,4 @@
-package shortestPathAlgorithms.dijsktraAlgorithm;
+package shortestPathAlgorithms.DijsktraAlgorithm;
 
 import java.util.*;
 

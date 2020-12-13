@@ -1,4 +1,4 @@
-package shortestPathAlgorithms.dijsktraAlgorithm;
+package shortestPathAlgorithms.DijsktraAlgorithm;
 
 public class App {
     public static void main(String[] args) {

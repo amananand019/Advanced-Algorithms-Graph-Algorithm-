@@ -1,4 +1,4 @@
-package shortestPathAlgorithms.dijsktraAlgorithm;
+package shortestPathAlgorithms.BellmanFordAlgorithm;
 
 public class Edge {
 
@@ -6,7 +6,7 @@ public class Edge {
     private Vertex startVertex;
     private Vertex targetVertex;
 
-    public Edge(double weight, Vertex startVertex, Vertex targetVertex) {
+    public Edge(Vertex startVertex, Vertex targetVertex, double weight) {
         this.weight = weight;
         this.startVertex = startVertex;
         this.targetVertex = targetVertex;
